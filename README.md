@@ -63,4 +63,4 @@ uvicorn app.main:app
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kishor1445/portfolio-backend/LICENSE) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kishor1445/portfolio-backend/blob/main/LICENSE) file for more details.
