@@ -19,7 +19,7 @@ This is the backend code for my personal portfolio website. It provides REST API
 
 - [ ] Implement authentication
 - [ ] Implement CRUD operations to create, update and delete data
-- [/] Write tests for API endpoints (TESTS ADDED FOR GET DATA ENDPOINTS)
+- [ ] Write tests for API endpoints (TESTS ADDED FOR GET DATA ENDPOINTS)
 - [ ] Containerize application using Docker
 - [ ] Add API usage tracking and analytics
 
