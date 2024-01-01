@@ -61,6 +61,6 @@ MONGODB_URI=Your MongoDB URI
 uvicorn app.main:app
 ```
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/kishor1445/portfolio-backend/blob/main/LICENSE) file for more details.
